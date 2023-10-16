@@ -1,0 +1,4 @@
+--simply prints the word fuck
+delta.Settings:AddButton("Print fuck", "Prints 'fuck' in your console.", function()
+  print("fuck")
+end)
